@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekents0209" alt="thekents0209" /></a> </p>
 
-- 🔭 I am currently working on [Sanalliset (Private Repo)](https://www.sanalliset.fi/)
+- 🔭 I am currently working on Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/)
 
 - 🌱 I am currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [Coming soon 😉]
+- 👨‍💻 All of my projects are available at (Coming soon 😉)
 
-- 📫 How to reach me **kenert2001@gmail.com**
+- 📫 You can reach me here: **kenert2001@gmail.com / @ LinkedIn below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
