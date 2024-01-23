@@ -9,7 +9,7 @@
 
 - 🌱 I am currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [Coming soon 😉](Coming soon 😉)
+- 👨‍💻 All of my projects are available at [Coming soon 😉]
 
 - 📫 How to reach me **kenert2001@gmail.com**
 
