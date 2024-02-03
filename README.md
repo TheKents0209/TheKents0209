@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekents0209" alt="thekents0209" /></a> </p>
 
-- 🔭 I am currently working on Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/) & Trading212 portfolio tracker app with Flutter
+- 🔭 I am currently working on Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/) & React Wrapper for Facebook Conversion API & Nespresso Pods tracking app w/ React Native
 
 - 🌱 I am currently learning **next.js**
 
