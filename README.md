@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I am Kenert</h1>
-<h3 align="center">Dedicated and results-driven Front-end Developer with 2 years of experience in React, Next.js and TypeScript. Recognized for effective team leadership, a can-do mindset, and having a keen eye for detail</h3>
+<h3 align="center">Dedicated and results-driven Front-end Developer with 3.5 years of experience in React, Next.js and TypeScript. Recognized for effective team leadership, a can-do mindset, and having a keen eye for detail</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekents0209&label=Profile%20views&color=0e75b6&style=flat" alt="thekents0209" /> </p>
 
