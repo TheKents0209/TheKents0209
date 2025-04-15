@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thekents0209" alt="thekents0209" /></a> </p>
 
-- 🔭 I am currently working on a admin panel for Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/)
+- 🔭 I am currently actively working on Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/)
 
-- 📫 You can reach me here: **kenert2001@gmail.com / @ LinkedIn below**
+- 👀 Sanalliset is a hidden repo so it won't show up here
+
+- 📫 You can reach me here: **kenert.lauri@gmail.com / @ LinkedIn below**
 
 - ⚡ Fun fact **Tried out Tailwind CSS and loved it**
 
