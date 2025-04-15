@@ -7,8 +7,6 @@
 
 - 🔭 I am currently working on a admin panel for Sanalliset, a jewelry brand that I co-founded. [Link to live version](https://www.sanalliset.fi/)
 
-- 👨‍💻 All of my projects are available at [Coming soon 😉](Coming soon 😉)
-
 - 📫 You can reach me here: **kenert2001@gmail.com / @ LinkedIn below**
 
 - ⚡ Fun fact **Tried out Tailwind CSS and loved it**
